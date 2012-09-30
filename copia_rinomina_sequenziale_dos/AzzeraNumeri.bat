@@ -1,0 +1,1 @@
+echo 1 > "C:\path\da\tenere\al\sicuro\numero_nome.txt"
