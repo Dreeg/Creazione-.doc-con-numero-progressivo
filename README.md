@@ -1,12 +1,7 @@
 Dreeg-Experiments
 =================
 
-Tentativo di creare uno script.
-Questo progettino serve a prendere un file
-copiarlo in un altra destinazione e rinominarlo
-con un numero sequenziale crescente sempre 
-diverso ed usa un file .txt per salvare l'ultimo
-numero utilizzato. C'è inoltre un azzeratore del
-contatore.
-Il tutto funzionante con due file di batch (.bat) 
-ed un file di testo (.txt).
+Questo progettino serve a creare file con numero sequenziale e crescente a partire da un file master.
+Utilizza un file .txt per salvare l'ultimo numero utilizzato, pertanto sarà semplice resettare o modificare la base di partenza numerica.
+Per comodità è presente anche un azzeratore del contatore.
+Il tutto funzionante con due file di batch (.bat) ed un file di testo (.txt).
